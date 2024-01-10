@@ -1,4 +1,5 @@
 return {
+  { "catppuccin/nvim" },
   { import = "lazyvim.plugins.extras.lang.go" },
 
   {
