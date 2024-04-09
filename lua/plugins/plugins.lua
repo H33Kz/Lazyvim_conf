@@ -9,6 +9,7 @@ return {
         "gopls",
         "pyright",
         "jdtls",
+        "xmlformatter",
       },
     },
   },
