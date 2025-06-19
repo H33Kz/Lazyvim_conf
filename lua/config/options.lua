@@ -2,7 +2,8 @@
 -- Default options that are always set: https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/config/options.lua
 -- Add any additional options hereby
 
-vim.opt.relativenumber = false
+vim.opt.relativenumber = true
+vim.opt.wrap = true
 
 if vim.fn.has("gui_running") then
   -- vim.cmd("set guifont=JetBrains Mono:h13")

@@ -44,3 +44,6 @@ require("lazy").setup({
     },
   },
 })
+--require("lspconfig").gopls.setup({
+--  hints = {},
+--})
